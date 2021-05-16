@@ -6,6 +6,7 @@ public class OneHelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World by Technolamror");
 	
+		
 	}
 
 }
